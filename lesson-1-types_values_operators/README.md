@@ -20,17 +20,17 @@
 
 ## Learning Assignments
 * Tutorial: [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) on Codecademy
-  - [ ] Introduction
-  - [ ] Conditionals
+  - [x] Introduction
+  - [x] Conditionals
 * Tutorial: [JavaScript Basics](https://teamtreehouse.com/library/javascript-basics) on Treehouse
-  - [ ] Introducing JavaScript
-  - [ ] Storing and Tracking Information with Variables
-  - [ ] Working with Numbers
-  - [ ] Making Decisions with Conditional Statements
+  - [x] Introducing JavaScript
+  - [x] Storing and Tracking Information with Variables
+  - [x] Working with Numbers
+  - [x] Making Decisions with Conditional Statements
 * Book: Eloquent JavaScript - Chapter 1
-* Article: Type coercion in JavaScript
+* Article: [Type coercion in JavaScript](https://github.com/The-Marcy-Lab-School/se-unit-2/blob/master/lesson-1-types_values_operators/type-coercion.md)
 * Documentation: [Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
 * Video: [Logical Operators && Tricks with short-circuit evaluation](https://www.youtube.com/watch?v=r7v6EIiHfVA)
 
 ## Problem Sets
-* Problem Set 2.1: Types, Values, and Operators
+* [Problem Set 2.1](https://github.com/The-Marcy-Lab-School/problem-set-2_1): Types, Values, and Operators
