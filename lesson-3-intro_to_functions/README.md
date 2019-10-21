@@ -25,4 +25,4 @@
 * **Reading**: Eloquent JavaScript - [Chapter 3](https://eloquentjavascript.net/03_functions.html) (**stop at the _Closure_ section**✋🏽)
 
 ## Problem Set
-* [Problem Set 2.2](https://github.com/The-Marcy-Lab-School/problem-set-2_3)
+* [Problem Set 2.3](https://github.com/The-Marcy-Lab-School/problem-set-2_3)
