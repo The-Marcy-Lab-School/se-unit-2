@@ -40,4 +40,4 @@
 * **Article:** [Understanding Date and Time in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
 
 ## Problem Set
-* Problem Set 2.6
+* [Problem Set 2.6](https://github.com/The-Marcy-Lab-School/problem-set-2_6)
