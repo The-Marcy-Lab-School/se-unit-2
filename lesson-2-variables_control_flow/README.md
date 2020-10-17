@@ -19,9 +19,9 @@
 ## Learning Assignments
 * Book: [Variables](https://launchschool.com/books/javascript/read/variables) - Launch School Introduction to Programming with JavaScript
 * Tutorial: [JavaScript Loops, Arrays, and Objects](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects) on Treehouse
-    [x] - Simplify Repetitive Tasks with Loops
+    - [x] Simplify Repetitive Tasks with Loops
 * Book: Eloquent JavaScript - [Chapter 2](https://eloquentjavascript.net/02_program_structure.html) 
 
 
 ## Problem Set
-* [Problem Set 2.2](https://github.com/The-Marcy-Lab-School/problem-set-2_2) - Variables, Control Flow, and Iterators
+* Problem Set 2.2 on Canvas
