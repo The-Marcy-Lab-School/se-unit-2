@@ -18,8 +18,7 @@
 
 ## Learning Assignments
 * Book: [Variables](https://launchschool.com/books/javascript/read/variables) - Launch School Introduction to Programming with JavaScript
-* Tutorial: [JavaScript Loops, Arrays, and Objects](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects) on Treehouse
-    - [x] Simplify Repetitive Tasks with Loops
+* Tutorial: [JavaScript Loops](https://teamtreehouse.com/library/javascript-loops) on Treehouse
 * Book: Eloquent JavaScript - [Chapter 2](https://eloquentjavascript.net/02_program_structure.html) 
 
 
