@@ -28,9 +28,6 @@
   - [x] Making Decisions with Conditional Statements
 * Article: [Type coercion in JavaScript](https://github.com/The-Marcy-Lab-School/se-unit-2/blob/master/lesson-1-types_values_operators/type-coercion.md)
 * Video: [Logical Operators && Tricks with short-circuit evaluation](https://www.youtube.com/watch?v=r7v6EIiHfVA)
-* Review: [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) on Codecademy
-  - [x] Introduction
-  - [x] Conditionals
 
 ## Problem Sets
 * Problem Set 2.1 on Canvas
