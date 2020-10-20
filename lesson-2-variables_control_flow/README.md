@@ -18,6 +18,7 @@
 
 ## Learning Assignments
 * Book: [Variables](https://launchschool.com/books/javascript/read/variables) - Launch School Introduction to Programming with JavaScript
+  - Do the Exercises at the bottom of the page after the Summary section!
 * Tutorial: [JavaScript Loops](https://teamtreehouse.com/library/javascript-loops) on Treehouse
   - [x] Simplify Repetitive Tasks with Loops
   - [x] Working with 'for' Loops
