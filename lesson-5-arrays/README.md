@@ -38,7 +38,7 @@
 * `Array.prototype.join`
 
 ## Learning Assignments
-* **Tutorial**: JavaScript Loops, Arrays, and Objects - [Tracking Multiple Items with Arrays](https://teamtreehouse.com/library/what-is-an-array)
+* **Tutorial**: JavaScript Loops, Arrays, and Objects - [Tracking Multiple Items with Arrays](https://teamtreehouse.com/library/what-is-an-array) on Treehouse
 * **Article**: JavaScript Arrays: [Tips and Tricks](https://www.codingame.com/playgrounds/6181/javascript-arrays---tips-tricks-and-examples)
 * **Article**: [The Complete Guide to JavaScript Arrays](https://dev.to/codetheweb/the-complete-guide-to-javascript-arrays-5dhc)
 * **Article**: [Array Wackiness Section](https://github.com/learn-co-curriculum/javascript-arrays#array-wackiness) on Learn.co
@@ -49,4 +49,4 @@
 * **Video**: [Spread Operator and Rest Operator](https://www.youtube.com/watch?v=iLx4ma8ZqvQ) on FreeCodeCamp
 
 ## Problem Set
-* [Problem Set 2.5](https://github.com/The-Marcy-Lab-School/problem-set-2_5)
+* Problem Set 2-5 on Canvas
