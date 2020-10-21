@@ -44,7 +44,6 @@
 * **Article**: [Array Wackiness Section](https://github.com/learn-co-curriculum/javascript-arrays#array-wackiness) on Learn.co
 * **Article**: [JavaScript Arrays, pass-by-value, and thinking about memory](https://medium.com/@TK_CodeBear/javascript-arrays-pass-by-value-and-thinking-about-memory-fffb7b0bf43)
 * **Article**: [Pass By Value vs Pass by Refernce](https://www.mathwarehouse.com/programming/passing-by-value-vs-by-reference-visual-explanation.php)
-* **Reading**: Eloquent JavaScript: Chapter 4 - [Rest Parameters Section](https://eloquentjavascript.net/04_data.html#h_hX9DkIBp9y)
 * **Article**: [Rest Parameters and spread operator](https://javascript.info/rest-parameters-spread-operator) on JavaScript.info
 
 ## Problem Set
