@@ -41,4 +41,4 @@
 
 ## Problem Set
 * [Objects Practice](https://github.com/The-Marcy-Lab-School/se-unit-2/blob/master/lesson-6-objects/objects-practice.md)
-* [Problem Set 2.6](https://github.com/The-Marcy-Lab-School/problem-set-2_6)
+* Problem Set 2-6 on Canvas
