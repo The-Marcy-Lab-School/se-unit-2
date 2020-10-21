@@ -40,5 +40,5 @@
 
 
 ## Problem Set
-* [Problem Set 2.4](https://github.com/The-Marcy-Lab-School/problem-set-2_4) 
+* Problem Set 2-4 on Canvas
 
