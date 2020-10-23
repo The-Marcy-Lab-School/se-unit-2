@@ -1,8 +1,7 @@
-# Unit 2 Lesson 5 Practice
-## Practice with JavaScript Objects
+# Practice with JavaScript Objects
 
 ### Directions
-The exercises below will not be submitted as a problem set but will serve as great practice for you. Complete these exercises first and then you will be ready to move on to 2.6!
+The exercises below will not be submitted as a problem set but will serve as great practice for you. Complete these exercises first and then you will be ready to move on to Problem Set 2-6!
 
 #### Object Basics
 1. Pick a penguin from [Wikipedia's List of Fictional Penguins](https://en.wikipedia.org/wiki/List_of_fictional_penguins) and create an object named `myPenguin` with properties that represent the information listed in each column on that Wikipedia page (for example: the character's name, origin, and author).
