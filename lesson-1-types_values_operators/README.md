@@ -21,13 +21,5 @@
 ## Learning Assignments
 
 * Book: [Eloquent JavaScript - Chapter 1](https://eloquentjavascript.net/01_values.html)
-* Tutorial: [JavaScript Basics](https://teamtreehouse.com/library/javascript-basics) on Treehouse
-  - [x] Hello, JavaScript!
-  - [x] Storing and Tracking Information with Variables
-  - [x] Working with Strings
-  - [x] Making Decisions with Conditional Statements
 * Article: [Type coercion in JavaScript](https://github.com/The-Marcy-Lab-School/se-unit-2/blob/master/lesson-1-types_values_operators/type-coercion.md)
 * Video: [Logical Operators && Tricks with short-circuit evaluation](https://www.youtube.com/watch?v=r7v6EIiHfVA)
-
-## Problem Sets
-* Problem Set 2.1 on Canvas
