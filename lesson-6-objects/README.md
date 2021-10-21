@@ -33,12 +33,10 @@
 * How can we copy the properties from one object to another?
  
 ## Learning Assignments
-* **Tutorial:** JavaScript Loops, Arrays, and Objects - [Tracking Data Using Objects](https://teamtreehouse.com/library/the-object-literal)
 * **Article:** [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) on MDN **(stop at _Creating New Objects_ section)**
 * **Article:** JavaScript Weekly: [An Introduction to Iteration and Enumerability](https://medium.com/launch-school/javascript-weekly-an-introduction-to-iteration-and-enumerability-70bb1054064a)
 * **Reading:** Eloquent JavaScript - [Chapter 4 - Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html) **(stop at _The Lycanthrope's Log_ section)**
 * **Article:** [Understanding Date and Time in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
 
-## Problem Set
+## Practice
 * [Objects Practice](https://github.com/The-Marcy-Lab-School/se-unit-2/blob/master/lesson-6-objects/objects-practice.md)
-* Problem Set 2-6 on Canvas
