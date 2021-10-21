@@ -9,7 +9,6 @@
 ## Learning Assignments
 * Article: [JavaScript: How did it get so popular?](https://news.codecademy.com/javascript-history-popularity/)
 * In your browser, bookmark the page [Eloquent JavaScript](https://eloquentjavascript.net/) and read the [Introduction](https://eloquentjavascript.net/00_intro.html)
-* Tutorial: [The Landscape of JavaScript](https://teamtreehouse.com/library/the-landscape-of-javascript) on Treehouse (all videos and quizzes)
 
 ___
 
