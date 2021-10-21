@@ -38,7 +38,3 @@
 
     **Purpose**: This is a 20 minute video that recaps a lot of the key concepts in the reading. The presenter is clear and the code-along is illustrative. The only new concept that this video introduces is _strict mode_. Otherwise, this is here as a resource for the folks who enjoy a good video tutorial.
 
-
-## Problem Set
-* Problem Set 2-4 on Canvas
-
