@@ -10,6 +10,7 @@
 
 ## Key Terms
 * type
+* `typeof`
 * operator
 * ternary operator
 * binary operator
