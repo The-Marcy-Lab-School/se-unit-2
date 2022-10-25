@@ -114,3 +114,5 @@ Fill out the truth tables below for `&&` (and), `||` (or) and one that uses mult
 |true|false|?|
 |false|true|?|
 |false|false|?|
+
+<sup>Exercises adapted from [General Assembly](https://github.com/ga-wdi-exercises/js-data-types/blob/master/exercise.md)</sup>
