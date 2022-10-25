@@ -32,7 +32,13 @@
 ## Learning Assignments
 * **Article:** [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) on MDN **(stop at _Creating New Objects_ section)**
 * **Article:** JavaScript Weekly: [An Introduction to Iteration and Enumerability](https://medium.com/launch-school/javascript-weekly-an-introduction-to-iteration-and-enumerability-70bb1054064a)
-* **Reading:** Eloquent JavaScript - [Chapter 4 - Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html) **(stop at _The Lycanthrope's Log_ section)**
+* **Book:** Eloquent JavaScript - [Chapter 4 - Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html) **(stop at _The Lycanthrope's Log_ section)**
 * **Article:** [Understanding Date and Time in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+
+**You need to understand how to use the following operators and methods:**
+* **Documentation:** [`in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in)
+* **Documentation:** [`delete` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
 * **Documentation:** [`for ... in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in) on MDN
 * **Documentation:** [`Object.keys()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys) on MDN
+* **Documentation:** [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+* **Documentation:** [`hasOwnProperty`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
