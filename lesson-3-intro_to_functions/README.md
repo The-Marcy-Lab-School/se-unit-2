@@ -2,8 +2,10 @@
 
 ## Essential Questions
 * Why are functions a key feature of any programming language?
+* What is the difference between a function argument and a function parameter?
 * How do we declare functions in JavaScript?
 * How does a function declared using function declaration notation differ from a function declared as function expression?
+* What are arrow functions? In what ways are they similar to function expressions? In what ways are they different?
 * What does _hoisting_ mean and how does it impact the way that we write our JavaScript programs?
 * How does JavaScript handle extra arguments during function invocation? What about missing arguments?
 
@@ -11,11 +13,10 @@
 * function
 * function declaration
 * function expression
+* arrow functions
 * function invocation
-* function argument
+* argument
 * parameters
-* global scope
-* local scope
 * hoisting
 
 ## Learning Assignments
