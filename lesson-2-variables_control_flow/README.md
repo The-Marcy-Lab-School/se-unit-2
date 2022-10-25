@@ -8,6 +8,7 @@
 * What does control flow mean?
 * What two keywords can we use to interrupt iteration?
 * How do `while` loops, `do...while`, and `for` loops differ? What do they have in common?
+* What are the `for...of` and `for...in` loops?
 
 ## Vocabulary
 * constant
