@@ -7,5 +7,5 @@
 * In what ways has JavaScript evolved since it was first created?
 
 ## Learning Assignments
-* Article: [JavaScript: How did it get so popular?](https://news.codecademy.com/javascript-history-popularity/)
-* In your browser, bookmark the page [Eloquent JavaScript](https://eloquentjavascript.net/) and read the [Introduction](https://eloquentjavascript.net/00_intro.html)
+* **Article**: [JavaScript: How did it get so popular?](https://news.codecademy.com/javascript-history-popularity/)
+* **Book:** In your browser, bookmark the page [Eloquent JavaScript](https://eloquentjavascript.net/) and read the [Introduction](https://eloquentjavascript.net/00_intro.html)
