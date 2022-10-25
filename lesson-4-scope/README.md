@@ -1,5 +1,12 @@
 # Unit 2 - Lesson 4: Variable Scope
 
+## Essential Questions
+* How do variables declared with `var`, `let`, and `const` differ when it comes to redeclaration, reassignment, and _hoisting_? 
+* What is global, function, and block scoping?
+* Why wouldn't we simply declare all of our variables in the global scope?
+* How are function parameters scoped?
+* How does JavaScript reconcile variables declared with the same name in different scopes?
+
 ## Key Terms
 * scope
 * global scope
@@ -8,14 +15,6 @@
 * function scope
 * lexical scope
 * lexical environment
-* author time
-* run time
-
-## Essential Questions
-* How do variables declared with `var`, `let`, and `const` differ?
-* Why wouldn't we simply declare all of our variables in the global scope?
-* How are function parameters scoped?
-* How does JavaScript reconcile variables declared with the same name in different scopes?
 
 ## Learning Assignments
 1. Article: [Hoisting in Modern JavaScript](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
