@@ -18,9 +18,7 @@
 * execution phase
 
 ## Learning Assignments
-1. Article: [Hoisting in Modern JavaScript](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
-
-    **Note**: Stop at _Hoisting Class Declaration_ section.
+1. Article: [Hoisting in Modern JavaScript](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda) **(Stop at _Hoisting Class Declaration_ section)**
 
 2. Article: [Understanding Scope and Scope Chain in JavaScript](https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53)
 
@@ -31,4 +29,4 @@
 ### Optional Learning Assignments:
 * Tutorial: [var, let and const - What, why and how - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8)
 
-**Purpose:** This is a 20 minute video that recaps a lot of the key concepts in the reading. The presenter is clear and the code-along is illustrative. The only new concept that this video introduces is strict mode. Otherwise, this is here as a resource for the folks who enjoy a good video tutorial.
+     **Purpose:** This is a 20 minute video that recaps a lot of the key concepts in the reading. The presenter is clear and the code-along is illustrative. The only new concept that this video introduces is strict mode. Otherwise, this is here as a resource for the folks who enjoy a good video tutorial.
