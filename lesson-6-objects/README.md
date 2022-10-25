@@ -16,7 +16,7 @@
 * method
 * dot notation
 * bracket notation
-* object literal
+* object literal (object initializer)
 * enumerable
 * shallow copy
 * deep clone
