@@ -13,6 +13,9 @@
 * function scope
 * block scope
 * lexical environment
+* lexical scope
+* creation (compile) phase
+* execution phase
 
 ## Learning Assignments
 1. Article: [Hoisting in Modern JavaScript](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
