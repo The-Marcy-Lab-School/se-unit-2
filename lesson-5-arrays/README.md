@@ -9,17 +9,17 @@
 * Of the seven JavaScript data types, how do we classify arrays?
 * Under what conditions will an array be equal (`==`) to another array?
 * What does it mean for arrays to be _passed by reference_ in JavaScript?
+* What is the purpose of the _spread operator_? How is it used with arrays?
 * What is the purpose of _rest parameters_? How do they differ from the `arguments` object?
 * What does it mean to _destructure_ a JavaScript array?
-* What is the purpose of the spread operator?
 
 ## Vocabulary
 * data structure
 * array
 * index
 * array method
-* rest parameters
 * spread operator
+* rest parameters
 * destructuring
 * pass-by-value
 * pass-by-reference
