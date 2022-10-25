@@ -1,8 +1,5 @@
 # Practice with JavaScript Objects
 
-### Directions
-The exercises below will not be submitted but will serve as great practice for you.
-
 #### Array Basics
 
 1. Create an array named colors that contains five different names of colors as strings.
