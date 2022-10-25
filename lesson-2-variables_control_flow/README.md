@@ -2,7 +2,7 @@
 
 ## Essential Questions
 * What is the difference between variables declared with `let`, `const`, and `var`?
-* What does it mean for a variable to be _block scoped_?
+* What does it mean for a variable to be _block scoped_? What about _function scoped_?
 * Why might it be helpful to think of a variable as a _binding_?
 * When would we declare a variable with `let` vs. `const`?
 * What does control flow mean?
