@@ -12,7 +12,7 @@
 ## Vocabulary
 * key
 * value
-* property (key-value pairs)
+* property (key-value pair)
 * method
 * dot notation
 * bracket notation
