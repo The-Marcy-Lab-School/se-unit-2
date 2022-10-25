@@ -20,6 +20,6 @@
 * hoisting
 
 ## Learning Assignments
+* **Reading**: Eloquent JavaScript - [Chapter 3](https://eloquentjavascript.net/03_functions.html) (**stop at the _Closure_ section**✋🏽)
 * **Article**: [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting) on MDN
 * **Article**: [Function Declarations vs. Function Expressions](https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052)
-* **Reading**: Eloquent JavaScript - [Chapter 3](https://eloquentjavascript.net/03_functions.html) (**stop at the _Closure_ section**✋🏽)
