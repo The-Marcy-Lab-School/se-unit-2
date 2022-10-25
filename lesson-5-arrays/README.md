@@ -6,7 +6,7 @@
 * How do we access individual elements within arrays?
 * How do we iterate over arrays?
 * What are the key methods for manipulating arrays?
-* Of the six JavaScript data types, how do we classify arrays?
+* Of the seven JavaScript data types, how do we classify arrays?
 * Under what conditions will an array be equal (`==`) to another array?
 * What does it mean for arrays to be _passed by reference_ in JavaScript?
 * What is the purpose of _rest parameters_? How do they differ from the `arguments` object?
