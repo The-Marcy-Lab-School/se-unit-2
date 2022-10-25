@@ -28,4 +28,7 @@
 
     **Note**: This is dense. You won't feel like you've fully grasped this entire chapter. That's okay. I'm concerned with the themes in this reading, not the details.
 
-4. Tutorial: [var, let and const - What, why and how - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+### Optional Learning Assignments:
+* Tutorial: [var, let and const - What, why and how - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+
+**Purpose:** This is a 20 minute video that recaps a lot of the key concepts in the reading. The presenter is clear and the code-along is illustrative. The only new concept that this video introduces is strict mode. Otherwise, this is here as a resource for the folks who enjoy a good video tutorial.
