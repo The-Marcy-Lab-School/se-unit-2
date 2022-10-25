@@ -17,6 +17,7 @@
 
 ## Learning Assignments
 1. Article: [Hoisting in Modern JavaScript](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
+
     **Note**: Stop at _Hoisting Class Declaration_ section.
 
 2. Article: [Understanding Scope and Scope Chain in JavaScript](https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53)
