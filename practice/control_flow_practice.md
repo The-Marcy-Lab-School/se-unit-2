@@ -66,3 +66,5 @@ fizzBuzz(3)
 fizzBuzz(15)
 // => prints "FizzBuzz" to the console
 ```
+
+<sup>Exercises adapted from [General Assembly](https://github.com/ga-wdi-exercises/js-data-types/blob/master/exercise.md)</sup>
