@@ -4,15 +4,14 @@
 * What is a _data structure_?
 * What are _arrays_ and why are they useful data structures?
 * How do we access individual elements within arrays?
-* How do we access and change the length of an array?
 * How do we iterate over arrays?
 * What are the key methods for manipulating arrays?
 * Of the six JavaScript data types, how do we classify arrays?
-* Under what conditions will an array be strictly or abstractly equal to another array?
+* Under what conditions will an array be equal (`==`) to another array?
+* What does it mean for arrays to be _passed by reference_ in JavaScript?
 * What is the purpose of _rest parameters_? How do they differ from the `arguments` object?
 * What does it mean to _destructure_ a JavaScript array?
 * What is the purpose of the spread operator?
-* What does it mean for arrays to be _passed by reference_ in JavaScript?
 
 ## Vocabulary
 * data structure
