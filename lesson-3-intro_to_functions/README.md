@@ -20,6 +20,6 @@
 * hoisting
 
 ## Learning Assignments
-* **Reading**: Eloquent JavaScript - [Chapter 3](https://eloquentjavascript.net/03_functions.html) (**stop at the _Closure_ section**✋🏽)
+* **Book**: Eloquent JavaScript - [Chapter 3](https://eloquentjavascript.net/03_functions.html) (**stop at the _Closure_ section**✋🏽)
 * **Article**: [Functions in Javascript (Declaration, Expression, Arrow)](https://mayanovarini.medium.com/functions-in-javascript-declaration-expression-arrow-d6f907dc850a) 
 * **Article**: [Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting) on MDN
