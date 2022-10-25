@@ -1,5 +1,14 @@
 # Unit 2 - Lesson 6: Introduction to JavaScript Objects
 
+## Essential Questions
+* What is an _object_ and why are they useful?
+* How do we access object properties (values)? When can we use dot notation and when must we use bracket notation?
+* What data types can be valid object properties in JavaScript? What data types can be valid object keys?
+* What is the relationship between arrays and objects in JavaScript?
+* What does it mean for a property to be _enumerable_?
+* What are the ways that we can iterate over objects?
+* How can we copy the properties from one object to another?
+
 ## Vocabulary
 * key
 * value
@@ -18,19 +27,9 @@
 * `delete`
 * `in`
 * `for... in` loop
+* `Object.keys`
 * `Object.assign`
 * `hasOwnProperty`
-* `Object.keys`
-
-## Essential Questions
-* What is an _object_ and why are they useful?
-* How do we access properties and methods? When can we use dot notation and when must we use bracket notation?
-* What data types can be valid object properties in JavaScript?
-* What does it mean for a property to be _enumerable_?
-* What is the relationship between arrays and objects in JavaScript?
-* What are the ways that we can iterate over objects?
-* When does the `for... in` loop lead to unexpected outputs and how can we safeguard against this?
-* How can we copy the properties from one object to another?
  
 ## Learning Assignments
 * **Article:** [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) on MDN **(stop at _Creating New Objects_ section)**
