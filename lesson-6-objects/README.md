@@ -2,8 +2,8 @@
 
 ## Essential Questions
 * What is an _object_ and why are they useful?
-* How do we access object properties (values)? When can we use dot notation and when must we use bracket notation?
-* What data types can be valid object properties in JavaScript? What data types can be valid object keys?
+* How do we access object properties? When can we use dot notation and when must we use bracket notation?
+* What data types can be valid object values in JavaScript? What data types can be valid object keys?
 * What is the relationship between arrays and objects in JavaScript?
 * What does it mean for a property to be _enumerable_?
 * What are the ways that we can iterate over objects?
@@ -12,13 +12,11 @@
 ## Vocabulary
 * key
 * value
-* property
+* property (key-value pairs)
 * method
-* JSON
 * dot notation
 * bracket notation
 * object literal
-* initializer notation
 * enumerable
 * shallow copy
 * deep clone
