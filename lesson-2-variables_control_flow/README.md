@@ -19,6 +19,6 @@
 
 ## Learning Assignments
 * **Book**: [Variables](https://launchschool.com/books/javascript/read/variables) - Launch School Introduction to Programming with JavaScript
-  - Do the Exercises at the bottom of the page after the Summary section!
+  - **Note:** Do the Exercises at the bottom of the page after the Summary section!
 * **Book**: Eloquent JavaScript - [Chapter 2](https://eloquentjavascript.net/02_program_structure.html) 
 * **Article**: [JavaScript Loops](https://www.tutorialrepublic.com/javascript-tutorial/javascript-loops.php)
