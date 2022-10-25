@@ -34,6 +34,3 @@
 * **Article:** JavaScript Weekly: [An Introduction to Iteration and Enumerability](https://medium.com/launch-school/javascript-weekly-an-introduction-to-iteration-and-enumerability-70bb1054064a)
 * **Reading:** Eloquent JavaScript - [Chapter 4 - Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html) **(stop at _The Lycanthrope's Log_ section)**
 * **Article:** [Understanding Date and Time in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
-
-## Practice
-* [Objects Practice](https://github.com/The-Marcy-Lab-School/se-unit-2/blob/master/lesson-6-objects/objects-practice.md)
