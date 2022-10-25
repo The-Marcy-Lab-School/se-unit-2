@@ -10,9 +10,8 @@
 ## Key Terms
 * scope
 * global scope
-* local scope
-* block scope
 * function scope
+* block scope
 * lexical environment
 
 ## Learning Assignments
