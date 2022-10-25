@@ -22,7 +22,7 @@
 
 * Article: [Understanding Scope and Scope Chain in JavaScript](https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53)
 
-3* Book: You Don't Know JavaScript: [Ch. 3 - Function vs. Block Scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch3.md)
+* Book: You Don't Know JavaScript: [Ch. 3 - Function vs. Block Scope](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch3.md)
 
    **Note**: This is dense. You won't feel like you've fully grasped this entire chapter. That's okay. I'm concerned with the themes in this reading, not the details.
 
