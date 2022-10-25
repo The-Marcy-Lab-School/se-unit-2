@@ -25,7 +25,8 @@
 * pass-by-value
 * pass-by-reference
 
-## Key Methods
+## Key Methods 
+* `for... of` loop
 * `Array.prototype.push`
 * `Array.prototype.pop`
 * `Array.prototype.shift`
