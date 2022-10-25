@@ -36,9 +36,9 @@
 * **Article:** [Understanding Date and Time in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
 
 **You need to understand how to use the following operators and methods:**
-* **Documentation:** [`in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in)
-* **Documentation:** [`delete` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
+* **Documentation:** [`in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in) on MDN
+* **Documentation:** [`delete` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) on MDN
 * **Documentation:** [`for ... in`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in) on MDN
 * **Documentation:** [`Object.keys()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys) on MDN
-* **Documentation:** [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
-* **Documentation:** [`hasOwnProperty`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
+* **Documentation:** [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) on MDN
+* **Documentation:** [`hasOwnProperty`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty) on MDN
