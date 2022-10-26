@@ -1,7 +1,7 @@
 # Unit 2 - Lesson 1: Types, Values, and Operators
 
 ## Essential Questions
-* What are the seven primiative data types in JavaScript? What is the last "complex" data type?
+* What are the seven primiative data types in JavaScript? What is the last non-primitive data type?
 * What are some examples of unary, binary, and ternary operators?
 * What are logical operators and what is their purpose?
 * What is the difference between the equality `==` and strict-equality `===` operators?
