@@ -1,4 +1,4 @@
-# Practice with JavaScript Objects
+# Practice with JavaScript Arrays and Objects
 
 #### Array Basics
 
